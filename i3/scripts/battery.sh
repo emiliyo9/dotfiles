@@ -1,6 +1,11 @@
 #!/bin/bash
 instance=0
 
+if [ $BLOCK_BUTTON -eq 1 ]
+then
+    $(arandr &)
+fi
+
 perc=$( upower -i /org/freedesktop/UPower/devices/battery_BAT1 |
  grep 'percentage' | grep -o '[0-9]*' )
 state=$( upower -i /org/freedesktop/UPower/devices/battery_BAT1 | 

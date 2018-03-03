@@ -1,5 +1,10 @@
 #!/bin/bash 
 
+if [ $BLOCK_BUTTON -eq 1 ]
+then
+    $(pavucontrol &)
+fi
+
 Vol=$(amixer -c 0 get Master | grep "Mono:" | awk '{print $4}' | tr -d "[ %]")
 Mute=$(amixer -c 0 get Master | grep "Mono:" | awk '{print $6}' | tr -d "[-]")
 
