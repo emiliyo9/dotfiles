@@ -1,1 +1,0 @@
-/home/segers/.i3
