@@ -1,0 +1,5 @@
+2020/07/12-23:28:45.655 3a4f0 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_andowmac.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/12-23:30:08.895 2ed26 Level-0 table #5: started
+2020/07/12-23:30:08.901 2ed26 Level-0 table #5: 6156 bytes OK
+2020/07/12-23:30:08.909 2ed26 Delete type=0 #3
+2020/07/12-23:30:08.909 2ed26 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

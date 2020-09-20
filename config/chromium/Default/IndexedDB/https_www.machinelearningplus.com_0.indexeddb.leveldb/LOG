@@ -1,0 +1,15 @@
+2020/05/04-23:38:11.504 cfb52 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.machinelearningplus.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/04-23:38:11.504 cfb52 Recovering log #4
+2020/05/04-23:38:11.504 cfb52 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.machinelearningplus.com_0.indexeddb.leveldb/000004.log 
+2020/05/04-23:38:13.538 83df5 Level-0 table #8: started
+2020/05/04-23:38:13.547 83df5 Level-0 table #8: 1768 bytes OK
+2020/05/04-23:38:13.574 83df5 Delete type=0 #4
+2020/05/04-23:38:13.574 83df5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/04-23:38:13.574 83df5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x08\x00w\x00e\x00b\x00-\x00p\x00u\x00s\x00h' @ 49 : 1
+2020/05/04-23:38:13.574 83df5 Compacting 1@1 + 1@2 files
+2020/05/04-23:38:13.580 83df5 Generated table #9@1: 20 keys, 1885 bytes
+2020/05/04-23:38:13.581 83df5 Compacted 1@1 + 1@2 files => 1885 bytes
+2020/05/04-23:38:13.588 83df5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/04-23:38:13.588 83df5 Delete type=2 #5
+2020/05/04-23:38:13.588 83df5 Delete type=2 #8
+2020/05/04-23:38:13.589 83df5 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x08\x00w\x00e\x00b\x00-\x00p\x00u\x00s\x00h' @ 49 : 1 .. (end); will stop at (end)

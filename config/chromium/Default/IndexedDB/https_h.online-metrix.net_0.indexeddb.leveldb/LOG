@@ -1,0 +1,8 @@
+2020/07/18-14:43:49.361 66ea8 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/18-14:43:49.361 66ea8 Recovering log #137
+2020/07/18-14:43:49.361 66ea8 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/000137.log 
+2020/07/18-14:44:00.306 118ec Level-0 table #142: started
+2020/07/18-14:44:00.306 118ec Level-0 table #142: 0 bytes OK
+2020/07/18-14:44:00.348 118ec Delete type=0 #137
+2020/07/18-14:44:00.348 118ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/18-14:44:00.349 118ec Manual compaction at level-1 from (begin) .. (end); will stop at (end)

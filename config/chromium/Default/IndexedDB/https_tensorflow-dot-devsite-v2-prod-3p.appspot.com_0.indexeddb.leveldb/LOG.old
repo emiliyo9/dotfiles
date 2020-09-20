@@ -1,0 +1,15 @@
+2020/06/08-17:04:29.617 9291 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_tensorflow-dot-devsite-v2-prod-3p.appspot.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/08-17:04:29.617 9291 Recovering log #4
+2020/06/08-17:04:29.617 9291 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_tensorflow-dot-devsite-v2-prod-3p.appspot.com_0.indexeddb.leveldb/000004.log 
+2020/06/08-17:30:36.063 a01 Level-0 table #8: started
+2020/06/08-17:30:36.078 a01 Level-0 table #8: 190 bytes OK
+2020/06/08-17:30:36.086 a01 Delete type=0 #4
+2020/06/08-17:30:36.086 a01 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/08-17:30:36.086 a01 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 74 : 1
+2020/06/08-17:30:36.086 a01 Compacting 1@1 + 1@2 files
+2020/06/08-17:30:36.092 a01 Generated table #9@1: 26 keys, 686 bytes
+2020/06/08-17:30:36.092 a01 Compacted 1@1 + 1@2 files => 686 bytes
+2020/06/08-17:30:36.100 a01 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/08-17:30:36.100 a01 Delete type=2 #5
+2020/06/08-17:30:36.100 a01 Delete type=2 #8
+2020/06/08-17:30:36.101 a01 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 74 : 1 .. (end); will stop at (end)

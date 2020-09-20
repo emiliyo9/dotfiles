@@ -1,0 +1,15 @@
+2020/09/09-21:38:49.940 495eb Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/09-21:38:49.940 495eb Recovering log #94
+2020/09/09-21:38:49.940 495eb Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/000094.log 
+2020/09/09-21:39:25.881 46f7e Level-0 table #99: started
+2020/09/09-21:39:25.899 46f7e Level-0 table #99: 24029 bytes OK
+2020/09/09-21:39:25.908 46f7e Delete type=0 #94
+2020/09/09-21:39:25.908 46f7e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/09-21:39:25.908 46f7e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x80\x93\x0bFGwB\x00\x01M\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00n\x00t\x00s\x00.\x00g\x00s\x00t\x00a\x00t\x00i\x00c\x00.\x00c\x00o\x00m\x00/\x00s\x00/\x00r\x00o\x00b\x00o\x00t\x00o\x00/\x00v\x002\x000\x00/\x00K\x00F\x00O\x00m\x00C\x00n\x00q\x00E\x00u\x009\x002\x00F\x00r\x001\x00M\x00u\x004\x00m\x00x\x00K\x00.\x00w\x00o\x00f\x00f\x002' @ 103628 : 1
+2020/09/09-21:39:25.908 46f7e Compacting 1@1 + 1@2 files
+2020/09/09-21:39:25.919 46f7e Generated table #100@1: 1194 keys, 108924 bytes
+2020/09/09-21:39:25.919 46f7e Compacted 1@1 + 1@2 files => 108924 bytes
+2020/09/09-21:39:25.929 46f7e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/09-21:39:25.930 46f7e Delete type=2 #99
+2020/09/09-21:39:25.930 46f7e Delete type=2 #96
+2020/09/09-21:39:25.930 46f7e Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x80\x93\x0bFGwB\x00\x01M\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00n\x00t\x00s\x00.\x00g\x00s\x00t\x00a\x00t\x00i\x00c\x00.\x00c\x00o\x00m\x00/\x00s\x00/\x00r\x00o\x00b\x00o\x00t\x00o\x00/\x00v\x002\x000\x00/\x00K\x00F\x00O\x00m\x00C\x00n\x00q\x00E\x00u\x009\x002\x00F\x00r\x001\x00M\x00u\x004\x00m\x00x\x00K\x00.\x00w\x00o\x00f\x00f\x002' @ 103628 : 1 .. (end); will stop at (end)

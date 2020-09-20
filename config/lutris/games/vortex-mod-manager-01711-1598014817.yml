@@ -1,0 +1,6 @@
+game:
+  exe: drive_c/Program Files/Black Tree Gaming Ltd/Vortex/Vortex.exe
+  prefix: /home/emile/Games/vortex-mod-manager
+wine:
+  dxvk: true
+  version: lutris-5.2-x86_64

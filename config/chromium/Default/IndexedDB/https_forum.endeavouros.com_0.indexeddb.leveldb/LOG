@@ -1,0 +1,7 @@
+2020/06/24-14:16:29.206 9dc Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/24-14:16:29.207 9dc Recovering log #3
+2020/06/24-14:16:29.209 9dc Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb/000003.log 
+2020/06/24-14:17:04.798 7af Level-0 table #5: started
+2020/06/24-14:17:04.816 7af Level-0 table #5: 125173 bytes OK
+2020/06/24-14:17:04.823 7af Delete type=0 #3
+2020/06/24-14:17:04.824 7af Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/05/16-16:40:10.561 10fd Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.engadget.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/16-16:47:03.703 16ef Level-0 table #5: started
+2020/05/16-16:47:03.732 16ef Level-0 table #5: 5617 bytes OK
+2020/05/16-16:47:03.739 16ef Delete type=0 #3
+2020/05/16-16:47:03.739 16ef Manual compaction at level-0 from (begin) .. (end); will stop at (end)

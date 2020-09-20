@@ -1,0 +1,5 @@
+2020/08/26-13:30:50.766 28860 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_pcminecraft-mods.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/26-13:43:00.420 241a0 Level-0 table #5: started
+2020/08/26-13:43:00.433 241a0 Level-0 table #5: 9141 bytes OK
+2020/08/26-13:43:00.440 241a0 Delete type=0 #3
+2020/08/26-13:43:00.440 241a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

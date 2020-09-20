@@ -1,0 +1,8 @@
+2020/09/06-18:37:00.424 92a22 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.ign.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/06-18:37:00.424 92a22 Recovering log #4
+2020/09/06-18:37:00.424 92a22 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.ign.com_0.indexeddb.leveldb/000004.log 
+2020/09/06-18:37:09.480 d098 Level-0 table #8: started
+2020/09/06-18:37:09.480 d098 Level-0 table #8: 0 bytes OK
+2020/09/06-18:37:09.488 d098 Delete type=0 #4
+2020/09/06-18:37:09.488 d098 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/06-18:37:09.488 d098 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

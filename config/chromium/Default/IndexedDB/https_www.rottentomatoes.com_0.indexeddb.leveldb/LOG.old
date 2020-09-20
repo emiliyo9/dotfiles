@@ -1,0 +1,15 @@
+2020/08/03-15:26:14.772 fd30 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.rottentomatoes.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/03-15:26:14.772 fd30 Recovering log #4
+2020/08/03-15:26:14.772 fd30 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.rottentomatoes.com_0.indexeddb.leveldb/000004.log 
+2020/08/03-15:27:33.993 967e Level-0 table #8: started
+2020/08/03-15:27:34.008 967e Level-0 table #8: 30055 bytes OK
+2020/08/03-15:27:34.016 967e Delete type=0 #4
+2020/08/03-15:27:34.017 967e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/03-15:27:34.018 967e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01\x1f\x03\x00pX\x05H;wB\x00\x01d\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00r\x00o\x00t\x00t\x00e\x00n\x00t\x00o\x00m\x00a\x00t\x00o\x00e\x00s\x00.\x00c\x00o\x00m\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00/\x00p\x00i\x00z\x00z\x00a\x00-\x00p\x00i\x00e\x00/\x00f\x00o\x00n\x00t\x00s\x00/\x00g\x00l\x00y\x00p\x00h\x00i\x00c\x00o\x00n\x00s\x00-\x00h\x00a\x00l\x00f\x00l\x00i\x00n\x00g\x00s\x00-\x00r\x00e\x00g\x00u\x00l\x00a\x00r\x00.\x004\x004\x008\x00c\x003\x004\x00a\x005\x006\x00d\x006\x00.\x00w\x00o\x00f\x00f\x002' @ 857 : 1
+2020/08/03-15:27:34.018 967e Compacting 1@1 + 1@2 files
+2020/08/03-15:27:34.025 967e Generated table #9@1: 235 keys, 15896 bytes
+2020/08/03-15:27:34.025 967e Compacted 1@1 + 1@2 files => 15896 bytes
+2020/08/03-15:27:34.033 967e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/03-15:27:34.033 967e Delete type=2 #5
+2020/08/03-15:27:34.033 967e Delete type=2 #8
+2020/08/03-15:27:34.033 967e Manual compaction at level-1 from '\x00\x05\x01\x1f\x03\x00pX\x05H;wB\x00\x01d\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00r\x00o\x00t\x00t\x00e\x00n\x00t\x00o\x00m\x00a\x00t\x00o\x00e\x00s\x00.\x00c\x00o\x00m\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00/\x00p\x00i\x00z\x00z\x00a\x00-\x00p\x00i\x00e\x00/\x00f\x00o\x00n\x00t\x00s\x00/\x00g\x00l\x00y\x00p\x00h\x00i\x00c\x00o\x00n\x00s\x00-\x00h\x00a\x00l\x00f\x00l\x00i\x00n\x00g\x00s\x00-\x00r\x00e\x00g\x00u\x00l\x00a\x00r\x00.\x004\x004\x008\x00c\x003\x004\x00a\x005\x006\x00d\x006\x00.\x00w\x00o\x00f\x00f\x002' @ 857 : 1 .. (end); will stop at (end)

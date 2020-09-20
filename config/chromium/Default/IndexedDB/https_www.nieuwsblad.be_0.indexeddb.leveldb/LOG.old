@@ -1,0 +1,7 @@
+2020/04/26-21:38:07.430 11396 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.nieuwsblad.be_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/26-21:38:07.430 11396 Recovering log #3
+2020/04/26-21:38:07.431 11396 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.nieuwsblad.be_0.indexeddb.leveldb/000003.log 
+2020/04/26-21:38:48.598 43ed Level-0 table #5: started
+2020/04/26-21:38:48.612 43ed Level-0 table #5: 4116 bytes OK
+2020/04/26-21:38:48.623 43ed Delete type=0 #3
+2020/04/26-21:38:48.624 43ed Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,29 @@
+{"key":"lastWatchedTitle","value":"Dragon Ball Super: Broly","_id":"0zyFvGkkFu9lW0bA"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1},"shows":{"sorter":"trending","genre":"","order":-1},"anime":{"sorter":"popularity","genre":"","type":"All","order":-1}},"_id":"1DSw7Mynz4tQuhJa"}
+{"key":"disclaimerAccepted","value":1,"_id":"3nF3EVRnQlRtyASC"}
+{"key":"playerVolume","value":"1.0","_id":"4T0hbmuOwCjXKeJ9"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"8oWr60g9yrVzqDXs"}
+{"key":"lastWatchedTime","value":false,"_id":"ATFcX5NoQhhRlrG7"}
+{"key":"totalUploaded","value":null,"_id":"CPAUO91hFPVCyi76"}
+{"key":"language","value":"en","_id":"CY59RWeJXyqIteYo"}
+{"key":"chosenPlayer","value":"local","_id":"EQqWCTO5osSU9foQ"}
+{"key":"opensubtitlesUsername","value":"emile.segers8@gmail.com","_id":"MDLtHKjjNEsuxr3x"}
+{"key":"shows_default_quality","value":"480p","_id":"Oj2y2ux1TXQ8fvMZ"}
+{"key":"version","value":"0.4.4","_id":"ROwZABWFirVAJMQP"}
+{"key":"opensubtitlesPassword","value":"3c963b8f6cfe5a2f2ac62d5ae0932dc1","_id":"RwDDrJtoBlsH5phg"}
+{"key":"totalDownloaded","value":null,"_id":"WI8wpMcBLrnknE3Z"}
+{"key":"movies_default_quality","value":"1080p","_id":"fA1vVlWWfVVxxMWs"}
+{"key":"ipAddress","value":"192.168.2.104","_id":"fxq0fsov8tIBru1V"}
+{"key":"os","value":"linux","_id":"gg0Tuyy3mQSh5b0r"}
+{"key":"subtitle_language","value":"en","_id":"hT4shKCs7QR5ewjd"}
+{"key":"showAdvancedSettings","value":true,"_id":"jfDEtMAoooy8Xsum"}
+{"key":"opensubtitlesAuthenticated","value":true,"_id":"rbX4jnz6dkty6bbo"}
+{"key":"arch","value":"x64","_id":"zxoPrUmq9MeIwFP6"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.4.4","_id":"ROwZABWFirVAJMQP"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"8oWr60g9yrVzqDXs"}
+{"key":"arch","value":"x64","_id":"zxoPrUmq9MeIwFP6"}
+{"key":"os","value":"linux","_id":"gg0Tuyy3mQSh5b0r"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1},"shows":{"sorter":"rating","genre":"All","order":-1},"anime":{"sorter":"popularity","genre":"","type":"All","order":-1}},"_id":"1DSw7Mynz4tQuhJa"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1},"shows":{"sorter":"rating","genre":"","order":-1},"anime":{"sorter":"popularity","genre":"","type":"All","order":-1}},"_id":"1DSw7Mynz4tQuhJa"}
+{"key":"shows_default_quality","value":"720p","_id":"Oj2y2ux1TXQ8fvMZ"}

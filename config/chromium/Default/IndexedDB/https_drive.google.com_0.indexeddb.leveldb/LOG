@@ -1,0 +1,15 @@
+2020/09/15-17:15:34.247 1b22f Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/15-17:15:34.248 1b22f Recovering log #2429
+2020/09/15-17:15:34.248 1b22f Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/002429.log 
+2020/09/15-17:39:09.215 cfa9 Level-0 table #2434: started
+2020/09/15-17:39:09.224 cfa9 Level-0 table #2434: 258579 bytes OK
+2020/09/15-17:39:09.232 cfa9 Delete type=0 #2429
+2020/09/15-17:39:09.233 cfa9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/15-17:39:09.233 cfa9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x006\x00e\x00c\x00e\x00b\x007\x005\x007\x000\x00f\x008\x005\x008\x004\x004\x000\x003\x006\x006\x005\x00e\x001\x008\x00b\x003\x00b\x001\x000\x00b\x00c\x00c\x004\x00_\x003\x00_\x002\x00:\x000\x000' @ 183439 : 0
+2020/09/15-17:39:09.233 cfa9 Compacting 1@1 + 1@2 files
+2020/09/15-17:39:09.241 cfa9 Generated table #2435@1: 74 keys, 8398 bytes
+2020/09/15-17:39:09.241 cfa9 Compacted 1@1 + 1@2 files => 8398 bytes
+2020/09/15-17:39:09.249 cfa9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/15-17:39:09.249 cfa9 Delete type=2 #2431
+2020/09/15-17:39:09.249 cfa9 Delete type=2 #2434
+2020/09/15-17:39:09.250 cfa9 Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x006\x00e\x00c\x00e\x00b\x007\x005\x007\x000\x00f\x008\x005\x008\x004\x004\x000\x003\x006\x006\x005\x00e\x001\x008\x00b\x003\x00b\x001\x000\x00b\x00c\x00c\x004\x00_\x003\x00_\x002\x00:\x000\x000' @ 183439 : 0 .. (end); will stop at (end)

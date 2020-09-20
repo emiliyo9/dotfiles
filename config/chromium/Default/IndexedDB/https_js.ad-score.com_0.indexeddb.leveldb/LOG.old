@@ -1,0 +1,28 @@
+2020/09/06-22:27:49.099 c55a2 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/06-22:27:49.203 d098 Level-0 table #5: started
+2020/09/06-22:27:49.213 d098 Level-0 table #5: 1054 bytes OK
+2020/09/06-22:27:49.228 d098 Delete type=0 #3
+2020/09/06-22:27:49.228 d098 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/09/06-22:27:57.121 d098 Level-0 table #7: started
+2020/09/06-22:27:57.126 d098 Level-0 table #7: 516 bytes OK
+2020/09/06-22:27:57.133 d098 Delete type=0 #4
+2020/09/06-22:27:57.133 d098 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/09/06-22:27:59.135 d098 Level-0 table #9: started
+2020/09/06-22:27:59.150 d098 Level-0 table #9: 237 bytes OK
+2020/09/06-22:27:59.164 d098 Delete type=0 #6
+2020/09/06-22:27:59.164 d098 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 85 : 0
+2020/09/06-22:27:59.164 d098 Compacting 1@0 + 1@1 files
+2020/09/06-22:27:59.169 d098 Generated table #10@0: 10 keys, 425 bytes
+2020/09/06-22:27:59.169 d098 Compacted 1@0 + 1@1 files => 425 bytes
+2020/09/06-22:27:59.175 d098 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/06-22:27:59.175 d098 Delete type=2 #9
+2020/09/06-22:27:59.175 d098 Delete type=2 #7
+2020/09/06-22:27:59.175 d098 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 85 : 0 .. (end); will stop at (end)
+2020/09/06-22:27:59.175 d098 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\xc9\x19\x00h\x00t\x00t\x00p\x00s\x00_\x00j\x00s\x00.\x00a\x00d\x00-\x00s\x00c\x00o\x00r\x00e\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001$\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a' @ 75 : 0
+2020/09/06-22:27:59.175 d098 Compacting 1@1 + 1@2 files
+2020/09/06-22:27:59.181 d098 Generated table #11@1: 5 keys, 237 bytes
+2020/09/06-22:27:59.181 d098 Compacted 1@1 + 1@2 files => 237 bytes
+2020/09/06-22:27:59.188 d098 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/06-22:27:59.188 d098 Delete type=2 #5
+2020/09/06-22:27:59.188 d098 Delete type=2 #10
+2020/09/06-22:27:59.188 d098 Manual compaction at level-1 from '\x00\x00\x00\x00\xc9\x19\x00h\x00t\x00t\x00p\x00s\x00_\x00j\x00s\x00.\x00a\x00d\x00-\x00s\x00c\x00o\x00r\x00e\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001$\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a\x00_\x00a\x00a' @ 75 : 0 .. (end); will stop at (end)

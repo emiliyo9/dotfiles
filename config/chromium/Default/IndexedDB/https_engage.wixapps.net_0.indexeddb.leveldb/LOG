@@ -1,0 +1,5 @@
+2020/08/03-01:27:28.687 10995 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_engage.wixapps.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/03-01:28:17.334 fa5f Level-0 table #5: started
+2020/08/03-01:28:17.339 fa5f Level-0 table #5: 6011 bytes OK
+2020/08/03-01:28:17.346 fa5f Delete type=0 #3
+2020/08/03-01:28:17.347 fa5f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

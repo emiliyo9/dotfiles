@@ -1,0 +1,7 @@
+2020/05/11-14:50:13.416 10f0f5 Reusing MANIFEST leveldb/MANIFEST-000001
+2020/05/11-15:25:13.418 11054e Level-0 table #5: started
+2020/05/11-15:25:13.433 11054e Level-0 table #5: 11047 bytes OK
+2020/05/11-15:25:13.439 11054e Delete type=0 #3
+2020/05/11-15:58:13.418 1119fb Level-0 table #7: started
+2020/05/11-15:58:13.438 1119fb Level-0 table #7: 10534 bytes OK
+2020/05/11-15:58:13.463 1119fb Delete type=0 #4

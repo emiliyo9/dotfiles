@@ -1,0 +1,5 @@
+2020/04/23-14:15:50.367 d4229 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.machinelearningplus.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/23-14:16:22.364 d0bdb Level-0 table #5: started
+2020/04/23-14:16:22.390 d0bdb Level-0 table #5: 840 bytes OK
+2020/04/23-14:16:22.405 d0bdb Delete type=0 #3
+2020/04/23-14:16:22.406 d0bdb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

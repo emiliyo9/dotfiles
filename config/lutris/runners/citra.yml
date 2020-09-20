@@ -1,0 +1,3 @@
+citra: {}
+system:
+  terminal_app: /usr/bin/urxvt

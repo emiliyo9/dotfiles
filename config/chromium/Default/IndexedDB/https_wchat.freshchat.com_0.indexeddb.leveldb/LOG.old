@@ -1,0 +1,8 @@
+2020/09/06-15:29:53.970 76c39 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_wchat.freshchat.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/06-15:29:53.970 76c39 Recovering log #4
+2020/09/06-15:29:53.970 76c39 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_wchat.freshchat.com_0.indexeddb.leveldb/000004.log 
+2020/09/06-15:29:56.646 d098 Level-0 table #8: started
+2020/09/06-15:29:56.646 d098 Level-0 table #8: 0 bytes OK
+2020/09/06-15:29:56.665 d098 Delete type=0 #4
+2020/09/06-15:29:56.665 d098 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/06-15:29:56.665 d098 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

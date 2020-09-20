@@ -1,0 +1,13 @@
+game:
+  arch: win64
+  exe: /home/emile/Documents/the_witcher_3/bin/x64/witcher3.exe
+system:
+  prime: true
+  vk_icd: /usr/share/vulkan/icd.d/nvidia_icd.json
+wine:
+  Desktop: false
+  WineDesktop: 1920x1080
+  autoconf_joypad: true
+  dxvk: true
+  esync: true
+  vkd3d: true

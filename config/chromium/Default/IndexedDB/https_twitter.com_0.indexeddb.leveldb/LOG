@@ -1,0 +1,15 @@
+2020/07/11-01:11:57.802 2709e Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/11-01:11:57.803 2709e Recovering log #14
+2020/07/11-01:11:57.803 2709e Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000014.log 
+2020/07/11-01:12:56.558 13663 Level-0 table #19: started
+2020/07/11-01:12:56.571 13663 Level-0 table #19: 1820 bytes OK
+2020/07/11-01:12:56.592 13663 Delete type=0 #14
+2020/07/11-01:12:56.592 13663 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/11-01:12:56.592 13663 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01\x0d\x001\x005\x009\x004\x004\x002\x002\x007\x001\x009\x000\x009\x004' @ 96 : 1
+2020/07/11-01:12:56.592 13663 Compacting 1@1 + 1@2 files
+2020/07/11-01:12:56.600 13663 Generated table #20@1: 34 keys, 780 bytes
+2020/07/11-01:12:56.600 13663 Compacted 1@1 + 1@2 files => 780 bytes
+2020/07/11-01:12:56.608 13663 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/11-01:12:56.608 13663 Delete type=2 #16
+2020/07/11-01:12:56.608 13663 Delete type=2 #19
+2020/07/11-01:12:56.609 13663 Manual compaction at level-1 from '\x00\x02\x01\x03\x01\x0d\x001\x005\x009\x004\x004\x002\x002\x007\x001\x009\x000\x009\x004' @ 96 : 1 .. (end); will stop at (end)

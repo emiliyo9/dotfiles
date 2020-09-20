@@ -1,0 +1,5 @@
+2020/08/03-15:29:03.634 11756 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.indiewire.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/03-15:29:34.667 967e Level-0 table #5: started
+2020/08/03-15:29:34.695 967e Level-0 table #5: 1581207 bytes OK
+2020/08/03-15:29:34.703 967e Delete type=0 #3
+2020/08/03-15:29:34.704 967e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

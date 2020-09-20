@@ -1,0 +1,15 @@
+2020/07/02-19:17:04.158 458a0 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_subscription.packtpub.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/02-19:17:04.158 458a0 Recovering log #4
+2020/07/02-19:17:04.159 458a0 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_subscription.packtpub.com_0.indexeddb.leveldb/000004.log 
+2020/07/02-19:17:14.802 475c Level-0 table #8: started
+2020/07/02-19:17:14.808 475c Level-0 table #8: 207 bytes OK
+2020/07/02-19:17:14.816 475c Delete type=0 #4
+2020/07/02-19:17:14.816 475c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/02-19:17:14.817 475c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 77 : 1
+2020/07/02-19:17:14.817 475c Compacting 1@1 + 1@2 files
+2020/07/02-19:17:14.823 475c Generated table #9@1: 27 keys, 704 bytes
+2020/07/02-19:17:14.823 475c Compacted 1@1 + 1@2 files => 704 bytes
+2020/07/02-19:17:14.831 475c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/02-19:17:14.831 475c Delete type=2 #5
+2020/07/02-19:17:14.831 475c Delete type=2 #8
+2020/07/02-19:17:14.832 475c Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 77 : 1 .. (end); will stop at (end)

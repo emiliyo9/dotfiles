@@ -1,0 +1,15 @@
+2020/05/03-16:09:10.780 8858f Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.standaard.be_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/03-16:09:10.780 8858f Recovering log #4
+2020/05/03-16:09:10.780 8858f Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.standaard.be_0.indexeddb.leveldb/000004.log 
+2020/05/03-16:09:53.757 83df5 Level-0 table #8: started
+2020/05/03-16:09:53.762 83df5 Level-0 table #8: 1022 bytes OK
+2020/05/03-16:09:53.769 83df5 Delete type=0 #4
+2020/05/03-16:09:53.769 83df5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/03-16:09:53.769 83df5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x06\x00v\x00i\x00s\x00F\x00r\x00q' @ 348 : 1
+2020/05/03-16:09:53.769 83df5 Compacting 1@1 + 1@2 files
+2020/05/03-16:09:53.775 83df5 Generated table #9@1: 50 keys, 1296 bytes
+2020/05/03-16:09:53.775 83df5 Compacted 1@1 + 1@2 files => 1296 bytes
+2020/05/03-16:09:53.818 83df5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/03-16:09:53.818 83df5 Delete type=2 #5
+2020/05/03-16:09:53.818 83df5 Delete type=2 #8
+2020/05/03-16:09:53.818 83df5 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x06\x00v\x00i\x00s\x00F\x00r\x00q' @ 348 : 1 .. (end); will stop at (end)

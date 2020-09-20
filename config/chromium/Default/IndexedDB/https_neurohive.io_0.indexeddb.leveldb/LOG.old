@@ -1,0 +1,7 @@
+2020/05/12-14:35:01.783 77b3 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_neurohive.io_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/12-14:35:01.783 77b3 Recovering log #3
+2020/05/12-14:35:01.804 77b3 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_neurohive.io_0.indexeddb.leveldb/000003.log 
+2020/05/12-15:09:54.635 776e Level-0 table #5: started
+2020/05/12-15:09:54.651 776e Level-0 table #5: 7657 bytes OK
+2020/05/12-15:09:54.663 776e Delete type=0 #3
+2020/05/12-15:09:54.664 776e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

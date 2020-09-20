@@ -1,0 +1,8 @@
+2020/09/13-22:53:41.919 a1018 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.vijf.be_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/13-22:53:41.919 a1018 Recovering log #89
+2020/09/13-22:53:41.919 a1018 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.vijf.be_0.indexeddb.leveldb/000089.log 
+2020/09/13-22:54:32.243 68f16 Level-0 table #94: started
+2020/09/13-22:54:32.243 68f16 Level-0 table #94: 0 bytes OK
+2020/09/13-22:54:32.268 68f16 Delete type=0 #89
+2020/09/13-22:54:32.268 68f16 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/13-22:54:32.268 68f16 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

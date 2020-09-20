@@ -1,0 +1,8 @@
+2020/07/19-22:43:12.642 4c2e Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_aternos.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/19-22:43:12.642 4c2e Recovering log #16
+2020/07/19-22:43:12.642 4c2e Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_aternos.org_0.indexeddb.leveldb/000016.log 
+2020/07/19-22:43:20.796 1f1f Level-0 table #20: started
+2020/07/19-22:43:20.796 1f1f Level-0 table #20: 0 bytes OK
+2020/07/19-22:43:20.803 1f1f Delete type=0 #16
+2020/07/19-22:43:20.803 1f1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/19-22:43:20.803 1f1f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

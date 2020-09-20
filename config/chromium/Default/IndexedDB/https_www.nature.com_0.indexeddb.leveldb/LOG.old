@@ -1,0 +1,27 @@
+2020/06/11-18:34:18.365 b4c6 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.nature.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/11-18:34:18.366 b4c6 Recovering log #4
+2020/06/11-18:34:18.366 b4c6 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.nature.com_0.indexeddb.leveldb/000004.log 
+2020/06/11-18:34:18.746 48c9 Level-0 table #8: started
+2020/06/11-18:34:18.751 48c9 Level-0 table #8: 801 bytes OK
+2020/06/11-18:34:18.758 48c9 Delete type=0 #4
+2020/06/11-18:34:18.758 48c9 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/06/11-18:34:18.758 48c9 Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at '\x00\x01\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 120 : 0
+2020/06/11-18:34:18.758 48c9 Compacting 1@1 + 1@2 files
+2020/06/11-18:34:18.767 48c9 Generated table #9@1: 7 keys, 288 bytes
+2020/06/11-18:34:18.767 48c9 Compacted 1@1 + 1@2 files => 288 bytes
+2020/06/11-18:34:18.779 48c9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/11-18:34:18.779 48c9 Delete type=2 #8
+2020/06/11-18:34:18.779 48c9 Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 120 : 0 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/06/11-20:22:11.395 48c9 Level-0 table #11: started
+2020/06/11-20:22:11.427 48c9 Level-0 table #11: 2294485 bytes OK
+2020/06/11-20:22:11.437 48c9 Delete type=2 #5
+2020/06/11-20:22:11.437 48c9 Delete type=0 #7
+2020/06/11-20:22:11.439 48c9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/11-20:22:11.439 48c9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 198 : 1
+2020/06/11-20:22:11.439 48c9 Compacting 1@1 + 1@2 files
+2020/06/11-20:22:11.476 48c9 Generated table #12@1: 31 keys, 40139 bytes
+2020/06/11-20:22:11.476 48c9 Compacted 1@1 + 1@2 files => 40139 bytes
+2020/06/11-20:22:11.485 48c9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/11-20:22:11.486 48c9 Delete type=2 #9
+2020/06/11-20:22:11.486 48c9 Delete type=2 #11
+2020/06/11-20:22:11.487 48c9 Manual compaction at level-1 from '\x00\x02\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 198 : 1 .. (end); will stop at (end)

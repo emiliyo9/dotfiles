@@ -1,0 +1,15 @@
+2020/09/12-16:59:49.607 3045b Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/12-16:59:49.607 3045b Recovering log #54
+2020/09/12-16:59:49.607 3045b Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.epicgames.com_0.indexeddb.leveldb/000054.log 
+2020/09/12-17:01:49.479 28020 Level-0 table #59: started
+2020/09/12-17:01:49.485 28020 Level-0 table #59: 43601 bytes OK
+2020/09/12-17:01:49.493 28020 Delete type=0 #54
+2020/09/12-17:01:49.494 28020 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/12-17:01:49.494 28020 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x03\x01"\x00p\x00r\x00o\x00d\x00u\x00c\x00t\x00-\x00p\x00a\x00g\x00e\x00s\x00-\x00r\x00a\x00i\x00l\x00w\x00a\x00y\x00-\x00e\x00m\x00p\x00i\x00r\x00e\x00-\x00e\x00n\x00-\x00U\x00S' @ 2298 : 1
+2020/09/12-17:01:49.494 28020 Compacting 1@1 + 1@2 files
+2020/09/12-17:01:49.504 28020 Generated table #60@1: 239 keys, 157035 bytes
+2020/09/12-17:01:49.504 28020 Compacted 1@1 + 1@2 files => 157035 bytes
+2020/09/12-17:01:49.511 28020 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/12-17:01:49.512 28020 Delete type=2 #56
+2020/09/12-17:01:49.512 28020 Delete type=2 #59
+2020/09/12-17:01:49.512 28020 Manual compaction at level-1 from '\x00\x04\x01\x03\x01"\x00p\x00r\x00o\x00d\x00u\x00c\x00t\x00-\x00p\x00a\x00g\x00e\x00s\x00-\x00r\x00a\x00i\x00l\x00w\x00a\x00y\x00-\x00e\x00m\x00p\x00i\x00r\x00e\x00-\x00e\x00n\x00-\x00U\x00S' @ 2298 : 1 .. (end); will stop at (end)

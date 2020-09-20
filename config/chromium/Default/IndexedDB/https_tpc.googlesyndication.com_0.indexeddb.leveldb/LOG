@@ -1,0 +1,8 @@
+2020/09/03-22:14:49.656 aec8 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/03-22:14:49.657 aec8 Recovering log #65
+2020/09/03-22:14:49.657 aec8 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/000065.log 
+2020/09/03-22:14:53.998 e2a Level-0 table #69: started
+2020/09/03-22:14:53.998 e2a Level-0 table #69: 0 bytes OK
+2020/09/03-22:14:54.006 e2a Delete type=0 #65
+2020/09/03-22:14:54.007 e2a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/03-22:14:54.007 e2a Manual compaction at level-1 from (begin) .. (end); will stop at (end)

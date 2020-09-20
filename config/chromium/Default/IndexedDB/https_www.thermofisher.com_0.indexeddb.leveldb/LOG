@@ -1,0 +1,15 @@
+2020/06/07-23:11:57.967 1a73c Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.thermofisher.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/07-23:11:57.968 1a73c Recovering log #13
+2020/06/07-23:11:57.968 1a73c Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.thermofisher.com_0.indexeddb.leveldb/000013.log 
+2020/06/07-23:12:31.465 2593 Level-0 table #17: started
+2020/06/07-23:12:31.471 2593 Level-0 table #17: 1028 bytes OK
+2020/06/07-23:12:31.479 2593 Delete type=0 #13
+2020/06/07-23:12:31.479 2593 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/07-23:12:31.479 2593 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 61 : 1
+2020/06/07-23:12:31.479 2593 Compacting 1@1 + 1@2 files
+2020/06/07-23:12:31.485 2593 Generated table #18@1: 20 keys, 1040 bytes
+2020/06/07-23:12:31.485 2593 Compacted 1@1 + 1@2 files => 1040 bytes
+2020/06/07-23:12:31.493 2593 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/07-23:12:31.493 2593 Delete type=2 #5
+2020/06/07-23:12:31.493 2593 Delete type=2 #17
+2020/06/07-23:12:31.494 2593 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 61 : 1 .. (end); will stop at (end)

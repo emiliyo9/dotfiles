@@ -1,0 +1,112 @@
+2020/09/20-09:24:44.617 4fd Reusing MANIFEST /home/emile/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2020/09/20-09:24:44.623 4fd Recovering log #17157
+2020/09/20-09:24:44.624 4fd Reusing old log /home/emile/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/017157.log 
+2020/09/20-11:25:50.557 6f9 Level-0 table #17161: started
+2020/09/20-11:25:50.669 6f9 Level-0 table #17161: 5406273 bytes OK
+2020/09/20-11:25:50.677 6f9 Delete type=0 #17157
+2020/09/20-11:26:52.766 6f9 Level-0 table #17163: started
+2020/09/20-11:26:52.868 6f9 Level-0 table #17163: 5406582 bytes OK
+2020/09/20-11:26:52.877 6f9 Delete type=0 #17160
+2020/09/20-11:26:52.879 6f9 Compacting 4@0 + 2@1 files
+2020/09/20-11:26:52.992 6f9 Generated table #17164@0: 1 keys, 5406093 bytes
+2020/09/20-11:26:52.999 6f9 Generated table #17165@0: 5 keys, 569 bytes
+2020/09/20-11:26:52.999 6f9 Compacted 4@0 + 2@1 files => 5406662 bytes
+2020/09/20-11:26:53.007 6f9 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/09/20-11:26:53.008 6f9 Delete type=2 #17156
+2020/09/20-11:26:53.008 6f9 Delete type=2 #17158
+2020/09/20-11:26:53.008 6f9 Delete type=2 #17153
+2020/09/20-11:26:53.008 6f9 Delete type=2 #17152
+2020/09/20-11:26:53.008 6f9 Delete type=2 #17163
+2020/09/20-11:26:53.008 6f9 Delete type=2 #17161
+2020/09/20-12:25:49.869 6f9 Level-0 table #17167: started
+2020/09/20-12:25:49.953 6f9 Level-0 table #17167: 5406229 bytes OK
+2020/09/20-12:25:49.970 6f9 Delete type=0 #17162
+2020/09/20-12:39:42.500 6f9 Level-0 table #17169: started
+2020/09/20-12:39:42.560 6f9 Level-0 table #17169: 5406388 bytes OK
+2020/09/20-12:39:42.568 6f9 Delete type=0 #17166
+2020/09/20-13:25:49.879 6f9 Level-0 table #17171: started
+2020/09/20-13:25:49.950 6f9 Level-0 table #17171: 5406305 bytes OK
+2020/09/20-13:25:49.964 6f9 Delete type=0 #17168
+2020/09/20-13:30:37.302 6f9 Level-0 table #17173: started
+2020/09/20-13:30:37.370 6f9 Level-0 table #17173: 5406513 bytes OK
+2020/09/20-13:30:37.383 6f9 Delete type=0 #17170
+2020/09/20-13:30:37.384 6f9 Compacting 4@0 + 2@1 files
+2020/09/20-13:30:37.496 6f9 Generated table #17174@0: 1 keys, 5406094 bytes
+2020/09/20-13:30:37.502 6f9 Generated table #17175@0: 5 keys, 575 bytes
+2020/09/20-13:30:37.502 6f9 Compacted 4@0 + 2@1 files => 5406669 bytes
+2020/09/20-13:30:37.509 6f9 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/09/20-13:30:37.509 6f9 Delete type=2 #17171
+2020/09/20-13:30:37.509 6f9 Delete type=2 #17164
+2020/09/20-13:30:37.509 6f9 Delete type=2 #17167
+2020/09/20-13:30:37.509 6f9 Delete type=2 #17173
+2020/09/20-13:30:37.509 6f9 Delete type=2 #17165
+2020/09/20-13:30:37.509 6f9 Delete type=2 #17169
+2020/09/20-14:25:49.903 6f9 Level-0 table #17177: started
+2020/09/20-14:25:49.969 6f9 Level-0 table #17177: 5406323 bytes OK
+2020/09/20-14:25:49.981 6f9 Delete type=0 #17172
+2020/09/20-15:25:49.651 6f9 Level-0 table #17179: started
+2020/09/20-15:25:49.727 6f9 Level-0 table #17179: 5406388 bytes OK
+2020/09/20-15:25:49.741 6f9 Delete type=0 #17176
+2020/09/20-15:25:49.907 6f9 Level-0 table #17181: started
+2020/09/20-15:25:49.965 6f9 Level-0 table #17181: 5406101 bytes OK
+2020/09/20-15:25:49.973 6f9 Delete type=0 #17178
+2020/09/20-16:25:49.667 6f9 Level-0 table #17183: started
+2020/09/20-16:25:49.738 6f9 Level-0 table #17183: 5406520 bytes OK
+2020/09/20-16:25:49.755 6f9 Delete type=0 #17180
+2020/09/20-16:25:49.756 6f9 Compacting 4@0 + 2@1 files
+2020/09/20-16:25:49.875 6f9 Generated table #17184@0: 1 keys, 5406100 bytes
+2020/09/20-16:25:49.882 6f9 Generated table #17185@0: 5 keys, 577 bytes
+2020/09/20-16:25:49.882 6f9 Compacted 4@0 + 2@1 files => 5406677 bytes
+2020/09/20-16:25:49.889 6f9 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/09/20-16:25:49.889 6f9 Delete type=2 #17174
+2020/09/20-16:25:49.889 6f9 Delete type=2 #17175
+2020/09/20-16:25:49.889 6f9 Delete type=2 #17181
+2020/09/20-16:25:49.889 6f9 Delete type=2 #17183
+2020/09/20-16:25:49.889 6f9 Delete type=2 #17177
+2020/09/20-16:25:49.889 6f9 Delete type=2 #17179
+2020/09/20-16:25:49.931 6f9 Level-0 table #17187: started
+2020/09/20-16:25:49.991 6f9 Level-0 table #17187: 5406098 bytes OK
+2020/09/20-16:25:49.998 6f9 Delete type=0 #17182
+2020/09/20-17:25:50.109 6f9 Level-0 table #17189: started
+2020/09/20-17:25:50.220 6f9 Level-0 table #17189: 5406511 bytes OK
+2020/09/20-17:25:50.228 6f9 Delete type=0 #17186
+2020/09/20-17:25:50.550 6f9 Level-0 table #17191: started
+2020/09/20-17:25:50.659 6f9 Level-0 table #17191: 5406095 bytes OK
+2020/09/20-17:25:50.668 6f9 Delete type=0 #17188
+2020/09/20-17:27:12.752 6f9 Level-0 table #17193: started
+2020/09/20-17:27:12.867 6f9 Level-0 table #17193: 5406517 bytes OK
+2020/09/20-17:27:12.876 6f9 Delete type=0 #17190
+2020/09/20-17:27:12.878 6f9 Compacting 4@0 + 2@1 files
+2020/09/20-17:27:13.137 6f9 Generated table #17194@0: 1 keys, 5406097 bytes
+2020/09/20-17:27:13.155 6f9 Generated table #17195@0: 5 keys, 577 bytes
+2020/09/20-17:27:13.155 6f9 Compacted 4@0 + 2@1 files => 5406674 bytes
+2020/09/20-17:27:13.162 6f9 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/09/20-17:27:13.162 6f9 Delete type=2 #17189
+2020/09/20-17:27:13.162 6f9 Delete type=2 #17193
+2020/09/20-17:27:13.162 6f9 Delete type=2 #17185
+2020/09/20-17:27:13.162 6f9 Delete type=2 #17184
+2020/09/20-17:27:13.162 6f9 Delete type=2 #17187
+2020/09/20-17:27:13.162 6f9 Delete type=2 #17191
+2020/09/20-18:25:50.563 6f9 Level-0 table #17197: started
+2020/09/20-18:25:50.668 6f9 Level-0 table #17197: 5406188 bytes OK
+2020/09/20-18:25:50.677 6f9 Delete type=0 #17192
+2020/09/20-18:32:24.417 6f9 Level-0 table #17199: started
+2020/09/20-18:32:24.564 6f9 Level-0 table #17199: 5406512 bytes OK
+2020/09/20-18:32:24.573 6f9 Delete type=0 #17196
+2020/09/20-19:25:50.025 6f9 Level-0 table #17201: started
+2020/09/20-19:25:50.092 6f9 Level-0 table #17201: 5406173 bytes OK
+2020/09/20-19:25:50.100 6f9 Delete type=0 #17198
+2020/09/20-19:26:59.444 6f9 Level-0 table #17203: started
+2020/09/20-19:26:59.529 6f9 Level-0 table #17203: 5406383 bytes OK
+2020/09/20-19:26:59.551 6f9 Delete type=0 #17200
+2020/09/20-19:26:59.553 6f9 Compacting 4@0 + 2@1 files
+2020/09/20-19:26:59.684 6f9 Generated table #17204@0: 1 keys, 5406089 bytes
+2020/09/20-19:26:59.691 6f9 Generated table #17205@0: 5 keys, 574 bytes
+2020/09/20-19:26:59.691 6f9 Compacted 4@0 + 2@1 files => 5406663 bytes
+2020/09/20-19:26:59.699 6f9 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/09/20-19:26:59.699 6f9 Delete type=2 #17199
+2020/09/20-19:26:59.699 6f9 Delete type=2 #17194
+2020/09/20-19:26:59.699 6f9 Delete type=2 #17197
+2020/09/20-19:26:59.699 6f9 Delete type=2 #17195
+2020/09/20-19:26:59.699 6f9 Delete type=2 #17203
+2020/09/20-19:26:59.699 6f9 Delete type=2 #17201

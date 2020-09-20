@@ -1,0 +1,8 @@
+2020/05/16-13:29:18.231 9b25 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.thermofisher.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/16-13:29:18.231 9b25 Recovering log #10
+2020/05/16-13:29:18.231 9b25 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.thermofisher.com_0.indexeddb.leveldb/000010.log 
+2020/05/16-13:29:50.232 9c4e Level-0 table #14: started
+2020/05/16-13:29:50.232 9c4e Level-0 table #14: 0 bytes OK
+2020/05/16-13:29:50.262 9c4e Delete type=0 #10
+2020/05/16-13:29:50.263 9c4e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/16-13:29:50.263 9c4e Manual compaction at level-1 from (begin) .. (end); will stop at (end)

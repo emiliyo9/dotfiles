@@ -1,0 +1,5 @@
+2020/04/14-16:33:01.899 1e5cd Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/14-16:34:19.488 30f2 Level-0 table #5: started
+2020/04/14-16:34:19.511 30f2 Level-0 table #5: 1672 bytes OK
+2020/04/14-16:34:19.518 30f2 Delete type=0 #3
+2020/04/14-16:34:19.518 30f2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

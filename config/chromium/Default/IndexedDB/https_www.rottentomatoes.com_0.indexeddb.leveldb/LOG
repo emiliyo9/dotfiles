@@ -1,0 +1,15 @@
+2020/08/03-15:28:36.346 11756 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.rottentomatoes.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/03-15:28:36.346 11756 Recovering log #7
+2020/08/03-15:28:36.346 11756 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.rottentomatoes.com_0.indexeddb.leveldb/000007.log 
+2020/08/03-15:29:22.921 967e Level-0 table #12: started
+2020/08/03-15:29:22.934 967e Level-0 table #12: 1348 bytes OK
+2020/08/03-15:29:22.942 967e Delete type=0 #7
+2020/08/03-15:29:22.942 967e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/03-15:29:22.942 967e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x1f\x03\x00 \x0d(H;wB\x00\x01<\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00r\x00o\x00t\x00t\x00e\x00n\x00t\x00o\x00m\x00a\x00t\x00o\x00e\x00s\x00.\x00c\x00o\x00m\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00i\x00c\x00o\x00n\x00s\x00/\x00c\x00f\x00-\x00l\x00g\x00.\x00p\x00n\x00g' @ 1062 : 1
+2020/08/03-15:29:22.942 967e Compacting 1@1 + 1@2 files
+2020/08/03-15:29:22.948 967e Generated table #13@1: 244 keys, 16463 bytes
+2020/08/03-15:29:22.948 967e Compacted 1@1 + 1@2 files => 16463 bytes
+2020/08/03-15:29:22.956 967e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/03-15:29:22.956 967e Delete type=2 #9
+2020/08/03-15:29:22.956 967e Delete type=2 #12
+2020/08/03-15:29:22.956 967e Manual compaction at level-1 from '\x00\x04\x01\x1f\x03\x00 \x0d(H;wB\x00\x01<\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00r\x00o\x00t\x00t\x00e\x00n\x00t\x00o\x00m\x00a\x00t\x00o\x00e\x00s\x00.\x00c\x00o\x00m\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00i\x00c\x00o\x00n\x00s\x00/\x00c\x00f\x00-\x00l\x00g\x00.\x00p\x00n\x00g' @ 1062 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/05/04-14:06:59.119 b8f46 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_dodona.ugent.be_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/04-14:06:59.119 b8f46 Recovering log #106
+2020/05/04-14:06:59.119 b8f46 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_dodona.ugent.be_0.indexeddb.leveldb/000106.log 
+2020/05/04-17:03:26.530 83df5 Level-0 table #111: started
+2020/05/04-17:03:26.535 83df5 Level-0 table #111: 3499 bytes OK
+2020/05/04-17:03:26.542 83df5 Delete type=0 #106
+2020/05/04-17:03:26.543 83df5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/04-17:03:26.543 83df5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01-\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x006\x004\x000\x006\x000\x004\x001\x000\x009\x003\x005\x003\x00:\x00w\x00e\x00b\x00:\x00e\x00b\x003\x00a\x00a\x007\x00f\x001\x006\x00a\x007\x00c\x00f\x001\x00a\x000' @ 10852 : 1
+2020/05/04-17:03:26.543 83df5 Compacting 1@1 + 1@2 files
+2020/05/04-17:03:26.547 83df5 Generated table #112@1: 20 keys, 1284 bytes
+2020/05/04-17:03:26.547 83df5 Compacted 1@1 + 1@2 files => 1284 bytes
+2020/05/04-17:03:26.552 83df5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/04-17:03:26.552 83df5 Delete type=2 #111
+2020/05/04-17:03:26.552 83df5 Delete type=2 #108
+2020/05/04-17:03:26.553 83df5 Manual compaction at level-1 from '\x00\x01\x01\x02\x01-\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x006\x004\x000\x006\x000\x004\x001\x000\x009\x003\x005\x003\x00:\x00w\x00e\x00b\x00:\x00e\x00b\x003\x00a\x00a\x007\x00f\x001\x006\x00a\x007\x00c\x00f\x001\x00a\x000' @ 10852 : 1 .. (end); will stop at (end)

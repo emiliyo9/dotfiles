@@ -1,0 +1,7 @@
+2020/07/12-22:27:54.230 2d202 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_live.ubisoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/12-22:27:54.230 2d202 Recovering log #3
+2020/07/12-22:27:54.230 2d202 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_live.ubisoft.com_0.indexeddb.leveldb/000003.log 
+2020/07/12-22:34:15.884 2e0a5 Level-0 table #5: started
+2020/07/12-22:34:15.904 2e0a5 Level-0 table #5: 1489 bytes OK
+2020/07/12-22:34:15.919 2e0a5 Delete type=0 #3
+2020/07/12-22:34:15.919 2e0a5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

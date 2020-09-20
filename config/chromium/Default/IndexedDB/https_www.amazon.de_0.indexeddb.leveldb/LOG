@@ -1,0 +1,5 @@
+2020/08/03-13:45:23.267 9534 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.amazon.de_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/03-13:45:29.539 967e Level-0 table #5: started
+2020/08/03-13:45:29.546 967e Level-0 table #5: 1296 bytes OK
+2020/08/03-13:45:29.557 967e Delete type=0 #3
+2020/08/03-13:45:29.557 967e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2020/08/03-15:24:36.770 109ae Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_editorial.rottentomatoes.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/03-15:24:36.770 109ae Recovering log #7
+2020/08/03-15:24:36.770 109ae Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_editorial.rottentomatoes.com_0.indexeddb.leveldb/000007.log 
+2020/08/03-15:26:17.692 967e Level-0 table #11: started
+2020/08/03-15:26:17.692 967e Level-0 table #11: 0 bytes OK
+2020/08/03-15:26:17.707 967e Delete type=0 #7
+2020/08/03-15:26:17.708 967e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/03-15:26:17.708 967e Manual compaction at level-1 from (begin) .. (end); will stop at (end)

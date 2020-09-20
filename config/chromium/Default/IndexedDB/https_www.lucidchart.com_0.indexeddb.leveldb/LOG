@@ -1,0 +1,7 @@
+2020/06/07-12:25:12.242 371c Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.lucidchart.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/07-12:25:12.242 371c Recovering log #3
+2020/06/07-12:25:12.243 371c Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.lucidchart.com_0.indexeddb.leveldb/000003.log 
+2020/06/07-12:25:15.721 2593 Level-0 table #5: started
+2020/06/07-12:25:15.728 2593 Level-0 table #5: 858 bytes OK
+2020/06/07-12:25:15.735 2593 Delete type=0 #3
+2020/06/07-12:25:15.735 2593 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

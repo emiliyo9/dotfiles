@@ -1,0 +1,15 @@
+2020/08/03-00:13:05.269 a101 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_forums.lutris.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/03-00:13:05.269 a101 Recovering log #35
+2020/08/03-00:13:05.269 a101 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_forums.lutris.net_0.indexeddb.leveldb/000035.log 
+2020/08/03-00:14:08.563 6466 Level-0 table #40: started
+2020/08/03-00:14:08.576 6466 Level-0 table #40: 70682 bytes OK
+2020/08/03-00:14:08.584 6466 Delete type=0 #35
+2020/08/03-00:14:08.584 6466 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/03-00:14:08.584 6466 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xb0\x8a\xca\x13;wB\x00\x01J\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00v\x00a\x00t\x00a\x00r\x00s\x000\x00.\x00g\x00i\x00t\x00h\x00u\x00b\x00u\x00s\x00e\x00r\x00c\x00o\x00n\x00t\x00e\x00n\x00t\x00.\x00c\x00o\x00m\x00/\x00u\x00/\x005\x000\x006\x007\x004\x003\x003\x00?\x00s\x00=\x004\x000\x000\x00&\x00a\x00m\x00p\x00;\x00v\x00=\x004' @ 11485 : 1
+2020/08/03-00:14:08.584 6466 Compacting 1@1 + 1@2 files
+2020/08/03-00:14:08.591 6466 Generated table #41@1: 808 keys, 100807 bytes
+2020/08/03-00:14:08.591 6466 Compacted 1@1 + 1@2 files => 100807 bytes
+2020/08/03-00:14:08.598 6466 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/03-00:14:08.598 6466 Delete type=2 #40
+2020/08/03-00:14:08.598 6466 Delete type=2 #37
+2020/08/03-00:14:08.598 6466 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xb0\x8a\xca\x13;wB\x00\x01J\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00v\x00a\x00t\x00a\x00r\x00s\x000\x00.\x00g\x00i\x00t\x00h\x00u\x00b\x00u\x00s\x00e\x00r\x00c\x00o\x00n\x00t\x00e\x00n\x00t\x00.\x00c\x00o\x00m\x00/\x00u\x00/\x005\x000\x006\x007\x004\x003\x003\x00?\x00s\x00=\x004\x000\x000\x00&\x00a\x00m\x00p\x00;\x00v\x00=\x004' @ 11485 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/09/16-17:59:26.183 393dc Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/16-17:59:26.183 393dc Recovering log #67
+2020/09/16-17:59:26.183 393dc Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/000067.log 
+2020/09/16-18:00:19.400 350b7 Level-0 table #72: started
+2020/09/16-18:00:19.406 350b7 Level-0 table #72: 4439 bytes OK
+2020/09/16-18:00:19.413 350b7 Delete type=0 #67
+2020/09/16-18:00:19.413 350b7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/16-18:00:19.413 350b7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x01\x02\x01k\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00u\x00b\x00s\x00t\x00r\x00a\x00t\x00e\x00.\x00o\x00f\x00f\x00i\x00c\x00e\x00.\x00c\x00o\x00m\x00/\x00P\x00e\x00o\x00p\x00l\x00e\x00P\x00r\x00e\x00d\x00i\x00c\x00t\x00i\x00o\x00n\x00s\x00B\x002\x00/\x00M\x00i\x00c\x00r\x00o\x00s\x00o\x00f\x00t\x00F\x00e\x00e\x00d\x00?\x00s\x00e\x00c\x00t\x00i\x00o\x00n\x00=\x00O\x00f\x00f\x00i\x00c\x00e\x00C\x00o\x00m\x00H\x00o\x00m\x00e\x00&\x00s\x00c\x00e\x00n\x00a\x00r\x00i\x00o\x00=\x00O\x00f\x00f\x00i\x00c\x00e\x00C\x00o\x00m\x00H\x00o\x00m\x00e' @ 5403 : 0
+2020/09/16-18:00:19.413 350b7 Compacting 1@1 + 1@2 files
+2020/09/16-18:00:19.418 350b7 Generated table #73@1: 180 keys, 15841 bytes
+2020/09/16-18:00:19.418 350b7 Compacted 1@1 + 1@2 files => 15841 bytes
+2020/09/16-18:00:19.425 350b7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/16-18:00:19.425 350b7 Delete type=2 #69
+2020/09/16-18:00:19.426 350b7 Delete type=2 #72
+2020/09/16-18:00:19.426 350b7 Manual compaction at level-1 from '\x00\x07\x01\x02\x01k\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00u\x00b\x00s\x00t\x00r\x00a\x00t\x00e\x00.\x00o\x00f\x00f\x00i\x00c\x00e\x00.\x00c\x00o\x00m\x00/\x00P\x00e\x00o\x00p\x00l\x00e\x00P\x00r\x00e\x00d\x00i\x00c\x00t\x00i\x00o\x00n\x00s\x00B\x002\x00/\x00M\x00i\x00c\x00r\x00o\x00s\x00o\x00f\x00t\x00F\x00e\x00e\x00d\x00?\x00s\x00e\x00c\x00t\x00i\x00o\x00n\x00=\x00O\x00f\x00f\x00i\x00c\x00e\x00C\x00o\x00m\x00H\x00o\x00m\x00e\x00&\x00s\x00c\x00e\x00n\x00a\x00r\x00i\x00o\x00=\x00O\x00f\x00f\x00i\x00c\x00e\x00C\x00o\x00m\x00H\x00o\x00m\x00e' @ 5403 : 0 .. (end); will stop at (end)

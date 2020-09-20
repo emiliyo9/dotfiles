@@ -1,0 +1,3 @@
+../../sandbox/linux/seccomp-bpf-helpers/sigsys_handlers.cc:**CRASHING**:seccomp-bpf failure in syscall 0230
+../../sandbox/linux/seccomp-bpf-helpers/sigsys_handlers.cc:**CRASHING**:seccomp-bpf failure in syscall 0230
+(node:92039) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added. Use emitter.setMaxListeners() to increase limit

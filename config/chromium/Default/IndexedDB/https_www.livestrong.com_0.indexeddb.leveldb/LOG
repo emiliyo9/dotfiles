@@ -1,0 +1,5 @@
+2020/04/20-17:41:50.994 a7ead Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.livestrong.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/20-17:41:59.649 35026 Level-0 table #5: started
+2020/04/20-17:41:59.663 35026 Level-0 table #5: 1517 bytes OK
+2020/04/20-17:41:59.678 35026 Delete type=0 #3
+2020/04/20-17:41:59.679 35026 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

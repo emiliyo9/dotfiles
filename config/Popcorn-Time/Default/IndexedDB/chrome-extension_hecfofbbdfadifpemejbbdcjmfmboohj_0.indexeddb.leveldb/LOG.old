@@ -1,0 +1,14 @@
+2020/09/18-23:01:14.786 15ebb Reusing MANIFEST /home/emile/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/18-23:01:14.786 15ebb Recovering log #670
+2020/09/18-23:01:14.786 15ebb Reusing old log /home/emile/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/000670.log 
+2020/09/18-23:01:14.786 15ebb Delete type=2 #668
+2020/09/18-23:05:09.833 16c8c Level-0 table #675: started
+2020/09/18-23:05:09.847 16c8c Level-0 table #675: 1054 bytes OK
+2020/09/18-23:05:09.855 16c8c Delete type=0 #670
+2020/09/18-23:05:09.855 16c8c Manual compaction at level-0 from '\x00\xa9\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xaa\x00\x00\x00' @ 0 : 0; will stop at '\x00\xa9\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 10747 : 1
+2020/09/18-23:05:09.855 16c8c Compacting 1@0 + 1@1 files
+2020/09/18-23:05:09.860 16c8c Generated table #676@0: 20 keys, 637 bytes
+2020/09/18-23:05:09.860 16c8c Compacted 1@0 + 1@1 files => 637 bytes
+2020/09/18-23:05:09.867 16c8c compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/18-23:05:09.867 16c8c Delete type=2 #675
+2020/09/18-23:05:09.868 16c8c Manual compaction at level-0 from '\x00\xa9\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 10747 : 1 .. '\x00\xaa\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,43 @@
+{
+   "app": {
+      "icon_color": "#4862A3",
+      "launch": {
+         "web_url": "https://www.facebook.com/messages/t/manon.everaert.1"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/yr/r/9HGsoCeRtRY.ico"
+      }, {
+         "size": 32,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/yr/r/9HGsoCeRtRY.ico"
+      }, {
+         "size": 48,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/yr/r/9HGsoCeRtRY.ico"
+      }, {
+         "size": 64,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/yr/r/9HGsoCeRtRY.ico"
+      }, {
+         "size": 96,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/yr/r/9HGsoCeRtRY.ico"
+      }, {
+         "size": 128,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/yr/r/9HGsoCeRtRY.ico"
+      }, {
+         "size": 256,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/yr/r/9HGsoCeRtRY.ico"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "QHHimeBmz43FpPqDxcxcfGRl2wnstyLArzPXP+Et34s=",
+   "name": "Messenger",
+   "version": "2020.1.19.59002"
+}

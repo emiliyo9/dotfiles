@@ -1,0 +1,40 @@
+{
+   "background": {
+      "scripts": [ "pdf-locator-1.0.1.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "assets/logo48.png",
+      "default_title": "Mendeley Web Importer"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "chromeos": "Ctrl+Shift+S",
+            "linux": "Ctrl+Shift+S",
+            "mac": "Command+Shift+S",
+            "windows": "Ctrl+Shift+S"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": "script-src 'self' blob:; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "1.b9402347c2d76e828e8e48153dd3e028edad92f1d2200318eb99197e57dfeb7a",
+   "icons": {
+      "128": "assets/logo128.png",
+      "16": "assets/logo16.png",
+      "48": "assets/logo48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgsFbC2OVooVovua34FWKZpfepLals2QdXhXgU4mj7hZ64Xk0iwA1wcn87FlXNwFTbb0XR6nUp4eu1MkG/QuRtAtH7u4IlHDy+Pl1iu8mjmYY+x9aeZA9/7s59piOxZjq1TFAwm+xu8TkW2Nbcw8lhn49Y0wpy0mMSbBgX/tvcHieg/aOA2gfr5XW3wDdfsXznCyLHZnZC5evKUyfDnNBKu31HBQpELgG9VacV4CRUla+IGHNbMngYw1jlQ8dtnY/iBJYI6+WvPbvkeP7F7/82JpgvAc/CEsr35QQcVba5GqcgTZmmsGD5pMBw2gbwS8BqC9celTTFotBZfnwEyOKkwIDAQAB",
+   "manifest_version": 2,
+   "name": "Mendeley Web Importer",
+   "permissions": [ "cookies", "activeTab", "webRequest", "webRequestBlocking", "\u003Call_urls>", "storage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.435",
+   "web_accessible_resources": [ "index.html", "enhanced-reader.html", "reader.js", "reader-style.js", "fonts/NexusSansWebPro-Bold.*", "fonts/NexusSansWebPro-Regular.*", "assets/logoTransparent.png" ]
+}

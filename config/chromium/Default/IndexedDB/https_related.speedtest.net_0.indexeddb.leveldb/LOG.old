@@ -1,0 +1,5 @@
+2020/07/05-17:21:03.858 49ab Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_related.speedtest.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/05-17:21:20.459 6b3 Level-0 table #5: started
+2020/07/05-17:21:20.465 6b3 Level-0 table #5: 373 bytes OK
+2020/07/05-17:21:20.473 6b3 Delete type=0 #3
+2020/07/05-17:21:20.473 6b3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

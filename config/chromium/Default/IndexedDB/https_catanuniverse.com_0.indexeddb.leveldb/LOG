@@ -1,0 +1,6 @@
+2020/04/01-00:52:49.280 8bcb8 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_catanuniverse.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/01-00:52:49.281 8bcb8 Recovering log #3
+2020/04/01-00:52:49.281 8bcb8 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_catanuniverse.com_0.indexeddb.leveldb/000003.log 
+2020/04/01-00:53:04.926 8bdcd Level-0 table #5: started
+2020/04/01-00:53:05.033 8bdcd Level-0 table #5: 9273446 bytes OK
+2020/04/01-00:53:05.041 8bdcd Delete type=0 #3

@@ -1,0 +1,15 @@
+2020/08/09-20:11:19.933 d9eff Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.amazon.nl_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/09-20:11:19.933 d9eff Recovering log #23
+2020/08/09-20:11:19.933 d9eff Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.amazon.nl_0.indexeddb.leveldb/000023.log 
+2020/08/09-20:11:23.986 6c509 Level-0 table #28: started
+2020/08/09-20:11:24.004 6c509 Level-0 table #28: 933 bytes OK
+2020/08/09-20:11:24.012 6c509 Delete type=0 #23
+2020/08/09-20:11:24.013 6c509 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/09-20:11:24.013 6c509 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00\xb0|&J=wB\x00\x01\x14\x00N\x00Y\x00A\x00E\x001\x005\x00S\x00F\x00N\x00Y\x001\x00K\x005\x00Y\x003\x00X\x00N\x002\x00H\x008' @ 1182 : 1
+2020/08/09-20:11:24.013 6c509 Compacting 1@1 + 1@2 files
+2020/08/09-20:11:24.019 6c509 Generated table #29@1: 28 keys, 852 bytes
+2020/08/09-20:11:24.019 6c509 Compacted 1@1 + 1@2 files => 852 bytes
+2020/08/09-20:11:24.027 6c509 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/09-20:11:24.028 6c509 Delete type=2 #25
+2020/08/09-20:11:24.028 6c509 Delete type=2 #28
+2020/08/09-20:11:24.028 6c509 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00\xb0|&J=wB\x00\x01\x14\x00N\x00Y\x00A\x00E\x001\x005\x00S\x00F\x00N\x00Y\x001\x00K\x005\x00Y\x003\x00X\x00N\x002\x00H\x008' @ 1182 : 1 .. (end); will stop at (end)

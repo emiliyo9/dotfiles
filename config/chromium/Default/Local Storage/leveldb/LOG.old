@@ -1,0 +1,33 @@
+2020/09/20-09:24:43.930 4e3 Reusing MANIFEST /home/emile/.config/chromium/Default/Local Storage/leveldb/MANIFEST-025267
+2020/09/20-09:24:43.937 4e3 Recovering log #37208
+2020/09/20-09:24:43.938 4e3 Reusing old log /home/emile/.config/chromium/Default/Local Storage/leveldb/037208.log 
+2020/09/20-12:03:35.780 7a29 Level-0 table #37212: started
+2020/09/20-12:03:35.788 7a29 Level-0 table #37212: 16076 bytes OK
+2020/09/20-12:03:35.799 7a29 Delete type=0 #37208
+2020/09/20-12:52:53.032 7a29 Level-0 table #37214: started
+2020/09/20-12:52:53.045 7a29 Level-0 table #37214: 20752 bytes OK
+2020/09/20-12:52:53.053 7a29 Delete type=0 #37211
+2020/09/20-12:52:53.053 7a29 Compacting 4@0 + 4@1 files
+2020/09/20-12:52:53.087 7a29 Generated table #37215@0: 1650 keys, 2116592 bytes
+2020/09/20-12:52:53.114 7a29 Generated table #37216@0: 5714 keys, 2120291 bytes
+2020/09/20-12:52:53.146 7a29 Generated table #37217@0: 3083 keys, 2100660 bytes
+2020/09/20-12:52:53.152 7a29 Generated table #37218@0: 201 keys, 48118 bytes
+2020/09/20-12:52:53.152 7a29 Compacted 4@0 + 4@1 files => 6385661 bytes
+2020/09/20-12:52:53.159 7a29 compacted to: files[ 0 5 5 0 0 0 0 ]
+2020/09/20-12:52:53.159 7a29 Delete type=2 #37202
+2020/09/20-12:52:53.159 7a29 Delete type=2 #37209
+2020/09/20-12:52:53.159 7a29 Delete type=2 #37200
+2020/09/20-12:52:53.159 7a29 Delete type=2 #37203
+2020/09/20-12:52:53.159 7a29 Delete type=2 #37214
+2020/09/20-12:52:53.159 7a29 Delete type=2 #37206
+2020/09/20-12:52:53.159 7a29 Delete type=2 #37212
+2020/09/20-12:52:53.159 7a29 Delete type=2 #37201
+2020/09/20-13:49:39.174 7a29 Level-0 table #37220: started
+2020/09/20-13:49:39.187 7a29 Level-0 table #37220: 17208 bytes OK
+2020/09/20-13:49:39.194 7a29 Delete type=0 #37213
+2020/09/20-18:27:19.316 7a29 Level-0 table #37222: started
+2020/09/20-18:27:19.329 7a29 Level-0 table #37222: 12442 bytes OK
+2020/09/20-18:27:19.347 7a29 Delete type=0 #37219
+2020/09/20-19:15:52.119 7a29 Level-0 table #37224: started
+2020/09/20-19:15:52.133 7a29 Level-0 table #37224: 13111 bytes OK
+2020/09/20-19:15:52.141 7a29 Delete type=0 #37221
