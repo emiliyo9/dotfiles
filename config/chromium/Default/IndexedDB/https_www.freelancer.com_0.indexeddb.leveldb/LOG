@@ -1,5 +1,0 @@
-2020/06/15-01:21:57.837 17b0a Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.freelancer.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/15-01:22:13.009 d8cc Level-0 table #5: started
-2020/06/15-01:22:13.015 d8cc Level-0 table #5: 1239 bytes OK
-2020/06/15-01:22:13.027 d8cc Delete type=0 #3
-2020/06/15-01:22:13.027 d8cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

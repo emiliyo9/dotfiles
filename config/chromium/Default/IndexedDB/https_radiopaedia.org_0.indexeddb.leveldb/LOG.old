@@ -1,8 +1,0 @@
-2020/05/23-20:45:17.124 2cc30 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_radiopaedia.org_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/23-20:45:17.124 2cc30 Recovering log #7
-2020/05/23-20:45:17.124 2cc30 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_radiopaedia.org_0.indexeddb.leveldb/000007.log 
-2020/05/23-20:45:21.820 8eda Level-0 table #11: started
-2020/05/23-20:45:21.820 8eda Level-0 table #11: 0 bytes OK
-2020/05/23-20:45:21.847 8eda Delete type=0 #7
-2020/05/23-20:45:21.847 8eda Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/05/23-20:45:21.847 8eda Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,5 +1,0 @@
-2020/05/21-14:08:48.952 1fca8 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_agupubs.onlinelibrary.wiley.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/21-14:25:14.697 1577 Level-0 table #5: started
-2020/05/21-14:25:14.711 1577 Level-0 table #5: 2611 bytes OK
-2020/05/21-14:25:14.735 1577 Delete type=0 #3
-2020/05/21-14:25:14.735 1577 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

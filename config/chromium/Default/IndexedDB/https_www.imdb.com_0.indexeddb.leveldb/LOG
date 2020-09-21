@@ -1,7 +1,0 @@
-2020/06/06-13:26:53.393 72127 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.imdb.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/06-13:26:53.393 72127 Recovering log #3
-2020/06/06-13:26:53.394 72127 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.imdb.com_0.indexeddb.leveldb/000003.log 
-2020/06/06-13:26:59.224 5ec8 Level-0 table #5: started
-2020/06/06-13:26:59.240 5ec8 Level-0 table #5: 2511 bytes OK
-2020/06/06-13:26:59.248 5ec8 Delete type=0 #3
-2020/06/06-13:26:59.248 5ec8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

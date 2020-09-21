@@ -1,7 +1,0 @@
-2020/09/01-13:16:05.313 ca2a Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_minecraft.gamepedia.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/01-13:16:05.313 ca2a Recovering log #3
-2020/09/01-13:16:05.314 ca2a Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_minecraft.gamepedia.com_0.indexeddb.leveldb/000003.log 
-2020/09/01-13:16:17.752 1c56 Level-0 table #5: started
-2020/09/01-13:16:17.758 1c56 Level-0 table #5: 460 bytes OK
-2020/09/01-13:16:17.766 1c56 Delete type=0 #3
-2020/09/01-13:16:17.766 1c56 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

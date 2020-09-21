@@ -1,5 +1,0 @@
-2020/09/13-23:18:14.431 a63bd Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.oprahmag.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/14-00:03:03.811 68f16 Level-0 table #5: started
-2020/09/14-00:03:03.846 68f16 Level-0 table #5: 4035017 bytes OK
-2020/09/14-00:03:03.856 68f16 Delete type=0 #3
-2020/09/14-00:03:03.858 68f16 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

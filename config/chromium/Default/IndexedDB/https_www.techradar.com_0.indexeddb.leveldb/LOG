@@ -1,7 +1,0 @@
-2020/04/23-13:25:50.407 d204b Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.techradar.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/23-13:25:50.407 d204b Recovering log #3
-2020/04/23-13:25:50.417 d204b Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.techradar.com_0.indexeddb.leveldb/000003.log 
-2020/04/23-13:26:54.320 d0bdb Level-0 table #5: started
-2020/04/23-13:26:54.333 d0bdb Level-0 table #5: 11458 bytes OK
-2020/04/23-13:26:54.346 d0bdb Delete type=0 #3
-2020/04/23-13:26:54.347 d0bdb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

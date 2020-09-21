@@ -1,7 +1,0 @@
-2020/08/26-13:48:18.843 2c539 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_loveminecraft.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/26-13:48:18.843 2c539 Recovering log #3
-2020/08/26-13:48:18.843 2c539 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_loveminecraft.com_0.indexeddb.leveldb/000003.log 
-2020/08/26-13:48:21.538 241a0 Level-0 table #5: started
-2020/08/26-13:48:21.545 241a0 Level-0 table #5: 836 bytes OK
-2020/08/26-13:48:21.553 241a0 Delete type=0 #3
-2020/08/26-13:48:21.553 241a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

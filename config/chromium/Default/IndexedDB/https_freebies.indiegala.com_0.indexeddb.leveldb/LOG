@@ -1,5 +1,0 @@
-2020/07/18-13:38:35.770 5e0e0 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_freebies.indiegala.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/07/18-13:38:52.984 118ec Level-0 table #5: started
-2020/07/18-13:38:52.998 118ec Level-0 table #5: 5705 bytes OK
-2020/07/18-13:38:53.009 118ec Delete type=0 #3
-2020/07/18-13:38:53.010 118ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)

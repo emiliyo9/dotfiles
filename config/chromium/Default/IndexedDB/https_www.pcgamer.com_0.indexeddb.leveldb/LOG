@@ -1,7 +1,0 @@
-2020/07/22-17:32:57.046 2c119 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.pcgamer.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/07/22-17:32:57.046 2c119 Recovering log #3
-2020/07/22-17:32:57.047 2c119 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.pcgamer.com_0.indexeddb.leveldb/000003.log 
-2020/07/22-17:41:59.933 b37 Level-0 table #5: started
-2020/07/22-17:41:59.940 b37 Level-0 table #5: 11400 bytes OK
-2020/07/22-17:41:59.948 b37 Delete type=0 #3
-2020/07/22-17:41:59.948 b37 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

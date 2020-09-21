@@ -1,5 +1,0 @@
-2020/09/06-15:32:15.242 77452 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.gamesradar.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/06-21:57:14.943 d098 Level-0 table #5: started
-2020/09/06-21:57:14.970 d098 Level-0 table #5: 5915 bytes OK
-2020/09/06-21:57:14.978 d098 Delete type=0 #3
-2020/09/06-21:57:14.978 d098 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

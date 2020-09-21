@@ -1,5 +1,0 @@
-2020/08/28-22:56:40.234 350de Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_forums.minecraftforge.net_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/28-22:56:50.196 2685 Level-0 table #5: started
-2020/08/28-22:56:50.202 2685 Level-0 table #5: 381 bytes OK
-2020/08/28-22:56:50.213 2685 Delete type=0 #3
-2020/08/28-22:56:50.213 2685 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

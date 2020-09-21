@@ -1,5 +1,0 @@
-2020/07/19-22:30:47.339 2672 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_a9bcaf6cee581a53d86181532477f6ed.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/07/19-22:30:52.482 1f1f Level-0 table #5: started
-2020/07/19-22:30:52.495 1f1f Level-0 table #5: 439 bytes OK
-2020/07/19-22:30:52.505 1f1f Delete type=0 #3
-2020/07/19-22:30:52.505 1f1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

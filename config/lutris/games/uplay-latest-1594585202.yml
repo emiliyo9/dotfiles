@@ -1,8 +1,0 @@
-game:
-  exe: drive_c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/Uplay.exe
-  prefix: /home/emile/Games/uplay
-wine:
-  esync: true
-  overrides:
-    nvapi,nvapi64: disabled
-  version: lutris-5.7-5-x86_64

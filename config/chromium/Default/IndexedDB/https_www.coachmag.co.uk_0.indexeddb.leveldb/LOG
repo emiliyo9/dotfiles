@@ -1,7 +1,0 @@
-2020/04/20-21:53:57.190 af857 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.coachmag.co.uk_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/20-21:53:57.191 af857 Recovering log #3
-2020/04/20-21:53:57.198 af857 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.coachmag.co.uk_0.indexeddb.leveldb/000003.log 
-2020/04/20-21:54:55.222 35026 Level-0 table #5: started
-2020/04/20-21:54:55.253 35026 Level-0 table #5: 2779302 bytes OK
-2020/04/20-21:54:55.261 35026 Delete type=0 #3
-2020/04/20-21:54:55.264 35026 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

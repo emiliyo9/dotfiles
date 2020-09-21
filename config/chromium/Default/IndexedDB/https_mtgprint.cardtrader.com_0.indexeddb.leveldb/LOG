@@ -1,5 +1,0 @@
-2020/07/23-23:09:54.827 b99c6 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_mtgprint.cardtrader.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/07/23-23:10:44.960 89da5 Level-0 table #5: started
-2020/07/23-23:10:44.967 89da5 Level-0 table #5: 7552 bytes OK
-2020/07/23-23:10:44.975 89da5 Delete type=0 #3
-2020/07/23-23:10:44.975 89da5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

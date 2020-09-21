@@ -1,8 +1,0 @@
-2020/09/20-17:20:30.686 42af9 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_tab.gladly.io_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/20-17:20:30.687 42af9 Recovering log #4300
-2020/09/20-17:20:30.687 42af9 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_tab.gladly.io_0.indexeddb.leveldb/004300.log 
-2020/09/20-17:20:32.721 75b5 Level-0 table #4305: started
-2020/09/20-17:20:32.721 75b5 Level-0 table #4305: 0 bytes OK
-2020/09/20-17:20:32.745 75b5 Delete type=0 #4300
-2020/09/20-17:20:32.746 75b5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/09/20-17:20:32.746 75b5 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

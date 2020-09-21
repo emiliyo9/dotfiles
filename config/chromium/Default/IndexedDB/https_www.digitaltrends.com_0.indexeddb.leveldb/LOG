@@ -1,5 +1,0 @@
-2020/06/22-14:01:08.818 4d0d3 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.digitaltrends.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/22-14:03:08.150 7432 Level-0 table #5: started
-2020/06/22-14:03:08.163 7432 Level-0 table #5: 9399 bytes OK
-2020/06/22-14:03:08.173 7432 Delete type=0 #3
-2020/06/22-14:03:08.173 7432 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

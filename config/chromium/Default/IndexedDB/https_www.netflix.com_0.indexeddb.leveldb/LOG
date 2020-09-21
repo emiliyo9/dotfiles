@@ -1,7 +1,0 @@
-2020/04/29-15:34:44.545 86a1 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/29-15:34:44.545 86a1 Recovering log #3
-2020/04/29-15:34:44.546 86a1 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000003.log 
-2020/04/30-13:35:21.771 88be Level-0 table #5: started
-2020/04/30-13:35:21.793 88be Level-0 table #5: 82883 bytes OK
-2020/04/30-13:35:21.801 88be Delete type=0 #3
-2020/04/30-13:35:21.801 88be Manual compaction at level-0 from (begin) .. (end); will stop at (end)

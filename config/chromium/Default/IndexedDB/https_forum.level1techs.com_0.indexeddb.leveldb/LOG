@@ -1,7 +1,0 @@
-2020/08/02-22:48:00.490 b05d Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_forum.level1techs.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/02-22:48:00.490 b05d Recovering log #3
-2020/08/02-22:48:00.508 b05d Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_forum.level1techs.com_0.indexeddb.leveldb/000003.log 
-2020/08/02-22:49:18.995 d3e Level-0 table #5: started
-2020/08/02-22:49:19.012 d3e Level-0 table #5: 569880 bytes OK
-2020/08/02-22:49:19.019 d3e Delete type=0 #3
-2020/08/02-22:49:19.020 d3e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

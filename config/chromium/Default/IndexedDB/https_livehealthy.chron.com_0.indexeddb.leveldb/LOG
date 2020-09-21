@@ -1,5 +1,0 @@
-2020/04/20-21:56:09.378 af857 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_livehealthy.chron.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/20-23:30:42.761 35026 Level-0 table #5: started
-2020/04/20-23:30:42.773 35026 Level-0 table #5: 417675 bytes OK
-2020/04/20-23:30:42.781 35026 Delete type=0 #3
-2020/04/20-23:30:42.782 35026 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

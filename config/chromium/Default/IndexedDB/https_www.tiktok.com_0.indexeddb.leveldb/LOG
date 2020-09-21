@@ -1,5 +1,0 @@
-2020/09/16-13:14:16.166 6147 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/16-13:15:23.937 1d23 Level-0 table #5: started
-2020/09/16-13:15:23.949 1d23 Level-0 table #5: 109731 bytes OK
-2020/09/16-13:15:23.957 1d23 Delete type=0 #3
-2020/09/16-13:15:23.957 1d23 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

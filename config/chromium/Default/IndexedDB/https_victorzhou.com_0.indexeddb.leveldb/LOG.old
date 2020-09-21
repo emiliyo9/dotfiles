@@ -1,5 +1,0 @@
-2020/06/10-23:45:22.720 4efce Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_victorzhou.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/10-23:46:06.594 12a1 Level-0 table #5: started
-2020/06/10-23:46:06.600 12a1 Level-0 table #5: 2798 bytes OK
-2020/06/10-23:46:06.607 12a1 Delete type=0 #3
-2020/06/10-23:46:06.607 12a1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,7 +1,0 @@
-2020/04/26-22:56:16.407 16923 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_www.vier.be_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/26-22:56:16.407 16923 Recovering log #3
-2020/04/26-22:56:16.407 16923 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_www.vier.be_0.indexeddb.leveldb/000003.log 
-2020/04/26-22:56:20.063 43ed Level-0 table #5: started
-2020/04/26-22:56:20.069 43ed Level-0 table #5: 2568 bytes OK
-2020/04/26-22:56:20.076 43ed Delete type=0 #3
-2020/04/26-22:56:20.076 43ed Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,8 +1,0 @@
-2020/09/09-15:07:42.271 17263 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/09-15:07:42.271 17263 Recovering log #161
-2020/09/09-15:07:42.271 17263 Reusing old log /home/emile/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000161.log 
-2020/09/09-15:07:45.213 14521 Level-0 table #165: started
-2020/09/09-15:07:45.213 14521 Level-0 table #165: 0 bytes OK
-2020/09/09-15:07:45.229 14521 Delete type=0 #161
-2020/09/09-15:07:45.229 14521 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/09/09-15:07:45.229 14521 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

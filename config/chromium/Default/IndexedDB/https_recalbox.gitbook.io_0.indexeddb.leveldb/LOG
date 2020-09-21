@@ -1,5 +1,0 @@
-2020/04/24-16:37:34.802 f2f84 Reusing MANIFEST /home/emile/.config/chromium/Default/IndexedDB/https_recalbox.gitbook.io_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/24-16:37:47.465 d0bdb Level-0 table #5: started
-2020/04/24-16:37:47.471 d0bdb Level-0 table #5: 1156 bytes OK
-2020/04/24-16:37:47.480 d0bdb Delete type=0 #3
-2020/04/24-16:37:47.481 d0bdb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
